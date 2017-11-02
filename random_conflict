@@ -2,7 +2,12 @@ This is a file that will have some random conflicts. Make sure the block of code
 
 Code:
 - step 1
+    - step 1a
+    - step 1b
     - step 1c
 - step 2
+    - step 2a
+    - step 2b
 - step 3
 - step 4
+- step 5
